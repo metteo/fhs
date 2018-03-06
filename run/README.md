@@ -1,0 +1,1 @@
+Runtime variable data like program state, running process pid files etc. Files which descibe command used to start the process (classpath, module path). If multiple processes are allowed the name of the pid file should have some variable like instance name number etc

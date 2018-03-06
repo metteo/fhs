@@ -1,0 +1,8 @@
+ - some source examples
+ - release notes
+ - license files
+ - reference manuals in pdf
+ - copyright
+ - news
+ - readme
+ - authors file
